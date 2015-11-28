@@ -1,0 +1,4034 @@
+{
+  "data": {
+    "listHotCity": [
+      {
+        "cityId": 12,
+        "cityName": "北京",
+        "cityPinyin": "beijing",
+        "listBedRoomType": [
+          {
+            "id": "0",
+            "name": "不限"
+          },
+          {
+            "id": "1",
+            "name": "1居"
+          },
+          {
+            "id": "2",
+            "name": "2居"
+          },
+          {
+            "id": "30",
+            "name": "3居+"
+          }
+        ],
+        "listLodgeType": [
+          {
+            "id": "3",
+            "name": "独栋别墅"
+          },
+          {
+            "id": "5",
+            "name": "客栈"
+          },
+          {
+            "id": "6",
+            "name": "阁楼"
+          },
+          {
+            "id": "7",
+            "name": "四合院"
+          },
+          {
+            "id": "10",
+            "name": "林间小屋"
+          },
+          {
+            "id": "11",
+            "name": "豪宅"
+          },
+          {
+            "id": "12",
+            "name": "城堡"
+          }
+        ]
+      },
+      {
+        "cityId": 13,
+        "cityName": "上海",
+        "cityPinyin": "shanghai",
+        "listBedRoomType": [
+          {
+            "id": "0",
+            "name": "不限"
+          },
+          {
+            "id": "1",
+            "name": "1居"
+          },
+          {
+            "id": "2",
+            "name": "2居"
+          },
+          {
+            "id": "30",
+            "name": "3居+"
+          }
+        ],
+        "listLodgeType": [
+          {
+            "id": "3",
+            "name": "独栋别墅"
+          },
+          {
+            "id": "5",
+            "name": "客栈"
+          },
+          {
+            "id": "6",
+            "name": "阁楼"
+          },
+          {
+            "id": "8",
+            "name": "海边小屋"
+          },
+          {
+            "id": "11",
+            "name": "豪宅"
+          }
+        ]
+      },
+      {
+        "cityId": 16,
+        "cityName": "广州",
+        "cityPinyin": "guangzhou",
+        "listBedRoomType": [
+          {
+            "id": "0",
+            "name": "不限"
+          },
+          {
+            "id": "1",
+            "name": "1居"
+          },
+          {
+            "id": "2",
+            "name": "2居"
+          },
+          {
+            "id": "30",
+            "name": "3居+"
+          }
+        ],
+        "listLodgeType": [
+          {
+            "id": "3",
+            "name": "独栋别墅"
+          },
+          {
+            "id": "6",
+            "name": "阁楼"
+          },
+          {
+            "id": "11",
+            "name": "豪宅"
+          }
+        ]
+      },
+      {
+        "cityId": 17,
+        "cityName": "深圳",
+        "cityPinyin": "shenzhen",
+        "listBedRoomType": [
+          {
+            "id": "0",
+            "name": "不限"
+          },
+          {
+            "id": "1",
+            "name": "1居"
+          },
+          {
+            "id": "2",
+            "name": "2居"
+          },
+          {
+            "id": "30",
+            "name": "3居+"
+          }
+        ],
+        "listLodgeType": [
+          {
+            "id": "3",
+            "name": "独栋别墅"
+          },
+          {
+            "id": "5",
+            "name": "客栈"
+          },
+          {
+            "id": "8",
+            "name": "海边小屋"
+          },
+          {
+            "id": "11",
+            "name": "豪宅"
+          },
+          {
+            "id": "12",
+            "name": "城堡"
+          }
+        ]
+      },
+      {
+        "cityId": 144,
+        "cityName": "三亚",
+        "cityPinyin": "sanya",
+        "listBedRoomType": [
+          {
+            "id": "0",
+            "name": "不限"
+          },
+          {
+            "id": "1",
+            "name": "1居"
+          },
+          {
+            "id": "2",
+            "name": "2居"
+          },
+          {
+            "id": "30",
+            "name": "3居+"
+          }
+        ],
+        "listLodgeType": [
+          {
+            "id": "3",
+            "name": "独栋别墅"
+          },
+          {
+            "id": "5",
+            "name": "客栈"
+          },
+          {
+            "id": "7",
+            "name": "四合院"
+          },
+          {
+            "id": "8",
+            "name": "海边小屋"
+          },
+          {
+            "id": "11",
+            "name": "豪宅"
+          }
+        ]
+      },
+      {
+        "cityId": 45,
+        "cityName": "成都",
+        "cityPinyin": "chengdu",
+        "listBedRoomType": [
+          {
+            "id": "0",
+            "name": "不限"
+          },
+          {
+            "id": "1",
+            "name": "1居"
+          },
+          {
+            "id": "2",
+            "name": "2居"
+          },
+          {
+            "id": "30",
+            "name": "3居+"
+          }
+        ],
+        "listLodgeType": [
+          {
+            "id": "3",
+            "name": "独栋别墅"
+          },
+          {
+            "id": "5",
+            "name": "客栈"
+          },
+          {
+            "id": "7",
+            "name": "四合院"
+          },
+          {
+            "id": "11",
+            "name": "豪宅"
+          }
+        ]
+      },
+      {
+        "cityId": 194,
+        "cityName": "武汉",
+        "cityPinyin": "wuhan",
+        "listBedRoomType": [
+          {
+            "id": "0",
+            "name": "不限"
+          },
+          {
+            "id": "1",
+            "name": "1居"
+          },
+          {
+            "id": "2",
+            "name": "2居"
+          },
+          {
+            "id": "30",
+            "name": "3居+"
+          }
+        ],
+        "listLodgeType": [
+          {
+            "id": "3",
+            "name": "独栋别墅"
+          },
+          {
+            "id": "5",
+            "name": "客栈"
+          },
+          {
+            "id": "8",
+            "name": "海边小屋"
+          }
+        ]
+      },
+      {
+        "cityId": 65,
+        "cityName": "南京",
+        "cityPinyin": "nanjing",
+        "listBedRoomType": [
+          {
+            "id": "0",
+            "name": "不限"
+          },
+          {
+            "id": "1",
+            "name": "1居"
+          },
+          {
+            "id": "2",
+            "name": "2居"
+          },
+          {
+            "id": "30",
+            "name": "3居+"
+          }
+        ],
+        "listLodgeType": [
+          {
+            "id": "3",
+            "name": "独栋别墅"
+          },
+          {
+            "id": "7",
+            "name": "四合院"
+          },
+          {
+            "id": "11",
+            "name": "豪宅"
+          }
+        ]
+      },
+      {
+        "cityId": 15,
+        "cityName": "重庆",
+        "cityPinyin": "chongqing",
+        "listBedRoomType": [
+          {
+            "id": "0",
+            "name": "不限"
+          },
+          {
+            "id": "1",
+            "name": "1居"
+          },
+          {
+            "id": "2",
+            "name": "2居"
+          },
+          {
+            "id": "30",
+            "name": "3居+"
+          }
+        ],
+        "listLodgeType": [
+          {
+            "id": "3",
+            "name": "独栋别墅"
+          },
+          {
+            "id": "5",
+            "name": "客栈"
+          },
+          {
+            "id": "11",
+            "name": "豪宅"
+          }
+        ]
+      },
+      {
+        "cityId": 26,
+        "cityName": "杭州",
+        "cityPinyin": "hangzhou",
+        "listBedRoomType": [
+          {
+            "id": "0",
+            "name": "不限"
+          },
+          {
+            "id": "1",
+            "name": "1居"
+          },
+          {
+            "id": "2",
+            "name": "2居"
+          },
+          {
+            "id": "30",
+            "name": "3居+"
+          }
+        ],
+        "listLodgeType": [
+          {
+            "id": "3",
+            "name": "独栋别墅"
+          },
+          {
+            "id": "5",
+            "name": "客栈"
+          },
+          {
+            "id": "6",
+            "name": "阁楼"
+          },
+          {
+            "id": "11",
+            "name": "豪宅"
+          }
+        ]
+      },
+      {
+        "cityId": 344,
+        "cityName": "香港",
+        "cityPinyin": "xianggang",
+        "listBedRoomType": [
+          {
+            "id": "0",
+            "name": "不限"
+          },
+          {
+            "id": "1",
+            "name": "1居"
+          },
+          {
+            "id": "2",
+            "name": "2居"
+          },
+          {
+            "id": "30",
+            "name": "3居+"
+          }
+        ],
+        "listLodgeType": [
+          {
+            "id": "5",
+            "name": "客栈"
+          },
+          {
+            "id": "11",
+            "name": "豪宅"
+          }
+        ]
+      },
+      {
+        "cityId": 76,
+        "cityName": "厦门",
+        "cityPinyin": "xiamen",
+        "listBedRoomType": [
+          {
+            "id": "0",
+            "name": "不限"
+          },
+          {
+            "id": "1",
+            "name": "1居"
+          },
+          {
+            "id": "2",
+            "name": "2居"
+          },
+          {
+            "id": "30",
+            "name": "3居+"
+          }
+        ],
+        "listLodgeType": [
+          {
+            "id": "3",
+            "name": "独栋别墅"
+          },
+          {
+            "id": "5",
+            "name": "客栈"
+          },
+          {
+            "id": "8",
+            "name": "海边小屋"
+          },
+          {
+            "id": "11",
+            "name": "豪宅"
+          }
+        ]
+      },
+      {
+        "cityId": 176,
+        "cityName": "西安",
+        "cityPinyin": "xian",
+        "listBedRoomType": [
+          {
+            "id": "0",
+            "name": "不限"
+          },
+          {
+            "id": "1",
+            "name": "1居"
+          },
+          {
+            "id": "2",
+            "name": "2居"
+          },
+          {
+            "id": "30",
+            "name": "3居+"
+          }
+        ],
+        "listLodgeType": [
+          {
+            "id": "3",
+            "name": "独栋别墅"
+          },
+          {
+            "id": "5",
+            "name": "客栈"
+          },
+          {
+            "id": "11",
+            "name": "豪宅"
+          }
+        ]
+      },
+      {
+        "cityId": 204,
+        "cityName": "长沙",
+        "cityPinyin": "changsha",
+        "listBedRoomType": [
+          {
+            "id": "0",
+            "name": "不限"
+          },
+          {
+            "id": "1",
+            "name": "1居"
+          },
+          {
+            "id": "2",
+            "name": "2居"
+          },
+          {
+            "id": "30",
+            "name": "3居+"
+          }
+        ],
+        "listLodgeType": [
+          {
+            "id": "3",
+            "name": "独栋别墅"
+          },
+          {
+            "id": "5",
+            "name": "客栈"
+          },
+          {
+            "id": "11",
+            "name": "豪宅"
+          }
+        ]
+      },
+      {
+        "cityId": 67,
+        "cityName": "苏州",
+        "cityPinyin": "suzhou",
+        "listBedRoomType": [
+          {
+            "id": "0",
+            "name": "不限"
+          },
+          {
+            "id": "1",
+            "name": "1居"
+          },
+          {
+            "id": "2",
+            "name": "2居"
+          },
+          {
+            "id": "30",
+            "name": "3居+"
+          }
+        ],
+        "listLodgeType": [
+          {
+            "id": "3",
+            "name": "独栋别墅"
+          },
+          {
+            "id": "5",
+            "name": "客栈"
+          },
+          {
+            "id": "11",
+            "name": "豪宅"
+          }
+        ]
+      },
+      {
+        "cityId": 134,
+        "cityName": "桂林",
+        "cityPinyin": "guilin",
+        "listBedRoomType": [
+          {
+            "id": "0",
+            "name": "不限"
+          },
+          {
+            "id": "1",
+            "name": "1居"
+          },
+          {
+            "id": "2",
+            "name": "2居"
+          },
+          {
+            "id": "30",
+            "name": "3居+"
+          }
+        ],
+        "listLodgeType": [
+          {
+            "id": "3",
+            "name": "独栋别墅"
+          },
+          {
+            "id": "5",
+            "name": "客栈"
+          },
+          {
+            "id": "11",
+            "name": "豪宅"
+          }
+        ]
+      },
+      {
+        "cityId": 225,
+        "cityName": "昆明",
+        "cityPinyin": "kunming",
+        "listBedRoomType": [
+          {
+            "id": "0",
+            "name": "不限"
+          },
+          {
+            "id": "1",
+            "name": "1居"
+          },
+          {
+            "id": "2",
+            "name": "2居"
+          },
+          {
+            "id": "30",
+            "name": "3居+"
+          }
+        ],
+        "listLodgeType": [
+          {
+            "id": "3",
+            "name": "独栋别墅"
+          },
+          {
+            "id": "11",
+            "name": "豪宅"
+          }
+        ]
+      },
+      {
+        "cityId": 55,
+        "cityName": "沈阳",
+        "cityPinyin": "shenyang",
+        "listBedRoomType": [
+          {
+            "id": "0",
+            "name": "不限"
+          },
+          {
+            "id": "1",
+            "name": "1居"
+          },
+          {
+            "id": "2",
+            "name": "2居"
+          }
+        ],
+        "listLodgeType": [
+          {
+            "id": "3",
+            "name": "独栋别墅"
+          },
+          {
+            "id": "5",
+            "name": "客栈"
+          }
+        ]
+      },
+      {
+        "cityId": 14,
+        "cityName": "天津",
+        "cityPinyin": "tianjin",
+        "listBedRoomType": [
+          {
+            "id": "0",
+            "name": "不限"
+          },
+          {
+            "id": "1",
+            "name": "1居"
+          },
+          {
+            "id": "2",
+            "name": "2居"
+          },
+          {
+            "id": "30",
+            "name": "3居+"
+          }
+        ],
+        "listLodgeType": [
+          {
+            "id": "3",
+            "name": "独栋别墅"
+          }
+        ]
+      },
+      {
+        "cityId": 93,
+        "cityName": "哈尔滨",
+        "cityPinyin": "haerbin",
+        "listBedRoomType": [
+          {
+            "id": "0",
+            "name": "不限"
+          },
+          {
+            "id": "1",
+            "name": "1居"
+          },
+          {
+            "id": "2",
+            "name": "2居"
+          },
+          {
+            "id": "30",
+            "name": "3居+"
+          }
+        ],
+        "listLodgeType": [
+          {
+            "id": "3",
+            "name": "独栋别墅"
+          }
+        ]
+      }
+    ],
+    "listValidCity": [
+      {
+        "cityId": 12,
+        "cityName": "北京",
+        "cityPinyin": "beijing",
+        "listBedRoomType": [
+          {
+            "id": "0",
+            "name": "不限"
+          },
+          {
+            "id": "1",
+            "name": "1居"
+          },
+          {
+            "id": "2",
+            "name": "2居"
+          },
+          {
+            "id": "30",
+            "name": "3居+"
+          }
+        ],
+        "listLodgeType": [
+          {
+            "id": "3",
+            "name": "独栋别墅"
+          },
+          {
+            "id": "5",
+            "name": "客栈"
+          },
+          {
+            "id": "6",
+            "name": "阁楼"
+          },
+          {
+            "id": "7",
+            "name": "四合院"
+          },
+          {
+            "id": "10",
+            "name": "林间小屋"
+          },
+          {
+            "id": "11",
+            "name": "豪宅"
+          },
+          {
+            "id": "12",
+            "name": "城堡"
+          }
+        ]
+      },
+      {
+        "cityId": 13,
+        "cityName": "上海",
+        "cityPinyin": "shanghai",
+        "listBedRoomType": [
+          {
+            "id": "0",
+            "name": "不限"
+          },
+          {
+            "id": "1",
+            "name": "1居"
+          },
+          {
+            "id": "2",
+            "name": "2居"
+          },
+          {
+            "id": "30",
+            "name": "3居+"
+          }
+        ],
+        "listLodgeType": [
+          {
+            "id": "3",
+            "name": "独栋别墅"
+          },
+          {
+            "id": "5",
+            "name": "客栈"
+          },
+          {
+            "id": "6",
+            "name": "阁楼"
+          },
+          {
+            "id": "8",
+            "name": "海边小屋"
+          },
+          {
+            "id": "11",
+            "name": "豪宅"
+          }
+        ]
+      },
+      {
+        "cityId": 144,
+        "cityName": "三亚",
+        "cityPinyin": "sanya",
+        "listBedRoomType": [
+          {
+            "id": "0",
+            "name": "不限"
+          },
+          {
+            "id": "1",
+            "name": "1居"
+          },
+          {
+            "id": "2",
+            "name": "2居"
+          },
+          {
+            "id": "30",
+            "name": "3居+"
+          }
+        ],
+        "listLodgeType": [
+          {
+            "id": "3",
+            "name": "独栋别墅"
+          },
+          {
+            "id": "5",
+            "name": "客栈"
+          },
+          {
+            "id": "7",
+            "name": "四合院"
+          },
+          {
+            "id": "8",
+            "name": "海边小屋"
+          },
+          {
+            "id": "11",
+            "name": "豪宅"
+          }
+        ]
+      },
+      {
+        "cityId": 45,
+        "cityName": "成都",
+        "cityPinyin": "chengdu",
+        "listBedRoomType": [
+          {
+            "id": "0",
+            "name": "不限"
+          },
+          {
+            "id": "1",
+            "name": "1居"
+          },
+          {
+            "id": "2",
+            "name": "2居"
+          },
+          {
+            "id": "30",
+            "name": "3居+"
+          }
+        ],
+        "listLodgeType": [
+          {
+            "id": "3",
+            "name": "独栋别墅"
+          },
+          {
+            "id": "5",
+            "name": "客栈"
+          },
+          {
+            "id": "7",
+            "name": "四合院"
+          },
+          {
+            "id": "11",
+            "name": "豪宅"
+          }
+        ]
+      },
+      {
+        "cityId": 114,
+        "cityName": "青岛",
+        "cityPinyin": "qingdao",
+        "listBedRoomType": [
+          {
+            "id": "0",
+            "name": "不限"
+          },
+          {
+            "id": "1",
+            "name": "1居"
+          },
+          {
+            "id": "2",
+            "name": "2居"
+          },
+          {
+            "id": "30",
+            "name": "3居+"
+          }
+        ],
+        "listLodgeType": [
+          {
+            "id": "3",
+            "name": "独栋别墅"
+          },
+          {
+            "id": "5",
+            "name": "客栈"
+          },
+          {
+            "id": "6",
+            "name": "阁楼"
+          },
+          {
+            "id": "7",
+            "name": "四合院"
+          },
+          {
+            "id": "8",
+            "name": "海边小屋"
+          },
+          {
+            "id": "11",
+            "name": "豪宅"
+          }
+        ]
+      },
+      {
+        "cityId": 16,
+        "cityName": "广州",
+        "cityPinyin": "guangzhou",
+        "listBedRoomType": [
+          {
+            "id": "0",
+            "name": "不限"
+          },
+          {
+            "id": "1",
+            "name": "1居"
+          },
+          {
+            "id": "2",
+            "name": "2居"
+          },
+          {
+            "id": "30",
+            "name": "3居+"
+          }
+        ],
+        "listLodgeType": [
+          {
+            "id": "3",
+            "name": "独栋别墅"
+          },
+          {
+            "id": "6",
+            "name": "阁楼"
+          },
+          {
+            "id": "11",
+            "name": "豪宅"
+          }
+        ]
+      },
+      {
+        "cityId": 26,
+        "cityName": "杭州",
+        "cityPinyin": "hangzhou",
+        "listBedRoomType": [
+          {
+            "id": "0",
+            "name": "不限"
+          },
+          {
+            "id": "1",
+            "name": "1居"
+          },
+          {
+            "id": "2",
+            "name": "2居"
+          },
+          {
+            "id": "30",
+            "name": "3居+"
+          }
+        ],
+        "listLodgeType": [
+          {
+            "id": "3",
+            "name": "独栋别墅"
+          },
+          {
+            "id": "5",
+            "name": "客栈"
+          },
+          {
+            "id": "6",
+            "name": "阁楼"
+          },
+          {
+            "id": "11",
+            "name": "豪宅"
+          }
+        ]
+      },
+      {
+        "cityId": 56,
+        "cityName": "大连",
+        "cityPinyin": "dalian",
+        "listBedRoomType": [
+          {
+            "id": "0",
+            "name": "不限"
+          },
+          {
+            "id": "1",
+            "name": "1居"
+          },
+          {
+            "id": "2",
+            "name": "2居"
+          },
+          {
+            "id": "30",
+            "name": "3居+"
+          }
+        ],
+        "listLodgeType": [
+          {
+            "id": "3",
+            "name": "独栋别墅"
+          },
+          {
+            "id": "5",
+            "name": "客栈"
+          },
+          {
+            "id": "8",
+            "name": "海边小屋"
+          },
+          {
+            "id": "11",
+            "name": "豪宅"
+          }
+        ]
+      },
+      {
+        "cityId": 67,
+        "cityName": "苏州",
+        "cityPinyin": "suzhou",
+        "listBedRoomType": [
+          {
+            "id": "0",
+            "name": "不限"
+          },
+          {
+            "id": "1",
+            "name": "1居"
+          },
+          {
+            "id": "2",
+            "name": "2居"
+          },
+          {
+            "id": "30",
+            "name": "3居+"
+          }
+        ],
+        "listLodgeType": [
+          {
+            "id": "3",
+            "name": "独栋别墅"
+          },
+          {
+            "id": "5",
+            "name": "客栈"
+          },
+          {
+            "id": "11",
+            "name": "豪宅"
+          }
+        ]
+      },
+      {
+        "cityId": 344,
+        "cityName": "香港",
+        "cityPinyin": "xianggang",
+        "listBedRoomType": [
+          {
+            "id": "0",
+            "name": "不限"
+          },
+          {
+            "id": "1",
+            "name": "1居"
+          },
+          {
+            "id": "2",
+            "name": "2居"
+          },
+          {
+            "id": "30",
+            "name": "3居+"
+          }
+        ],
+        "listLodgeType": [
+          {
+            "id": "5",
+            "name": "客栈"
+          },
+          {
+            "id": "11",
+            "name": "豪宅"
+          }
+        ]
+      },
+      {
+        "cityId": 3,
+        "cityName": "北戴河",
+        "cityPinyin": "qinhuangdao",
+        "listBedRoomType": [
+          {
+            "id": "0",
+            "name": "不限"
+          },
+          {
+            "id": "1",
+            "name": "1居"
+          },
+          {
+            "id": "2",
+            "name": "2居"
+          },
+          {
+            "id": "30",
+            "name": "3居+"
+          }
+        ],
+        "listLodgeType": [
+          {
+            "id": "3",
+            "name": "独栋别墅"
+          },
+          {
+            "id": "5",
+            "name": "客栈"
+          },
+          {
+            "id": "8",
+            "name": "海边小屋"
+          },
+          {
+            "id": "11",
+            "name": "豪宅"
+          }
+        ]
+      },
+      {
+        "cityId": 176,
+        "cityName": "西安",
+        "cityPinyin": "xian",
+        "listBedRoomType": [
+          {
+            "id": "0",
+            "name": "不限"
+          },
+          {
+            "id": "1",
+            "name": "1居"
+          },
+          {
+            "id": "2",
+            "name": "2居"
+          },
+          {
+            "id": "30",
+            "name": "3居+"
+          }
+        ],
+        "listLodgeType": [
+          {
+            "id": "3",
+            "name": "独栋别墅"
+          },
+          {
+            "id": "5",
+            "name": "客栈"
+          },
+          {
+            "id": "11",
+            "name": "豪宅"
+          }
+        ]
+      },
+      {
+        "cityId": 120,
+        "cityName": "威海",
+        "cityPinyin": "weihai",
+        "listBedRoomType": [
+          {
+            "id": "0",
+            "name": "不限"
+          },
+          {
+            "id": "1",
+            "name": "1居"
+          },
+          {
+            "id": "2",
+            "name": "2居"
+          },
+          {
+            "id": "30",
+            "name": "3居+"
+          }
+        ],
+        "listLodgeType": [
+          {
+            "id": "3",
+            "name": "独栋别墅"
+          },
+          {
+            "id": "5",
+            "name": "客栈"
+          },
+          {
+            "id": "7",
+            "name": "四合院"
+          },
+          {
+            "id": "8",
+            "name": "海边小屋"
+          },
+          {
+            "id": "11",
+            "name": "豪宅"
+          }
+        ]
+      },
+      {
+        "cityId": 17,
+        "cityName": "深圳",
+        "cityPinyin": "shenzhen",
+        "listBedRoomType": [
+          {
+            "id": "0",
+            "name": "不限"
+          },
+          {
+            "id": "1",
+            "name": "1居"
+          },
+          {
+            "id": "2",
+            "name": "2居"
+          },
+          {
+            "id": "30",
+            "name": "3居+"
+          }
+        ],
+        "listLodgeType": [
+          {
+            "id": "3",
+            "name": "独栋别墅"
+          },
+          {
+            "id": "5",
+            "name": "客栈"
+          },
+          {
+            "id": "8",
+            "name": "海边小屋"
+          },
+          {
+            "id": "11",
+            "name": "豪宅"
+          },
+          {
+            "id": "12",
+            "name": "城堡"
+          }
+        ]
+      },
+      {
+        "cityId": 93,
+        "cityName": "哈尔滨",
+        "cityPinyin": "haerbin",
+        "listBedRoomType": [
+          {
+            "id": "0",
+            "name": "不限"
+          },
+          {
+            "id": "1",
+            "name": "1居"
+          },
+          {
+            "id": "2",
+            "name": "2居"
+          },
+          {
+            "id": "30",
+            "name": "3居+"
+          }
+        ],
+        "listLodgeType": [
+          {
+            "id": "3",
+            "name": "独栋别墅"
+          }
+        ]
+      },
+      {
+        "cityId": 225,
+        "cityName": "昆明",
+        "cityPinyin": "kunming",
+        "listBedRoomType": [
+          {
+            "id": "0",
+            "name": "不限"
+          },
+          {
+            "id": "1",
+            "name": "1居"
+          },
+          {
+            "id": "2",
+            "name": "2居"
+          },
+          {
+            "id": "30",
+            "name": "3居+"
+          }
+        ],
+        "listLodgeType": [
+          {
+            "id": "3",
+            "name": "独栋别墅"
+          },
+          {
+            "id": "11",
+            "name": "豪宅"
+          }
+        ]
+      },
+      {
+        "cityId": 15,
+        "cityName": "重庆",
+        "cityPinyin": "chongqing",
+        "listBedRoomType": [
+          {
+            "id": "0",
+            "name": "不限"
+          },
+          {
+            "id": "1",
+            "name": "1居"
+          },
+          {
+            "id": "2",
+            "name": "2居"
+          },
+          {
+            "id": "30",
+            "name": "3居+"
+          }
+        ],
+        "listLodgeType": [
+          {
+            "id": "3",
+            "name": "独栋别墅"
+          },
+          {
+            "id": "5",
+            "name": "客栈"
+          },
+          {
+            "id": "11",
+            "name": "豪宅"
+          }
+        ]
+      },
+      {
+        "cityId": 65,
+        "cityName": "南京",
+        "cityPinyin": "nanjing",
+        "listBedRoomType": [
+          {
+            "id": "0",
+            "name": "不限"
+          },
+          {
+            "id": "1",
+            "name": "1居"
+          },
+          {
+            "id": "2",
+            "name": "2居"
+          },
+          {
+            "id": "30",
+            "name": "3居+"
+          }
+        ],
+        "listLodgeType": [
+          {
+            "id": "3",
+            "name": "独栋别墅"
+          },
+          {
+            "id": "7",
+            "name": "四合院"
+          },
+          {
+            "id": "11",
+            "name": "豪宅"
+          }
+        ]
+      },
+      {
+        "cityId": 194,
+        "cityName": "武汉",
+        "cityPinyin": "wuhan",
+        "listBedRoomType": [
+          {
+            "id": "0",
+            "name": "不限"
+          },
+          {
+            "id": "1",
+            "name": "1居"
+          },
+          {
+            "id": "2",
+            "name": "2居"
+          },
+          {
+            "id": "30",
+            "name": "3居+"
+          }
+        ],
+        "listLodgeType": [
+          {
+            "id": "3",
+            "name": "独栋别墅"
+          },
+          {
+            "id": "5",
+            "name": "客栈"
+          },
+          {
+            "id": "8",
+            "name": "海边小屋"
+          }
+        ]
+      },
+      {
+        "cityId": 113,
+        "cityName": "济南",
+        "cityPinyin": "jinan",
+        "listBedRoomType": [
+          {
+            "id": "0",
+            "name": "不限"
+          },
+          {
+            "id": "1",
+            "name": "1居"
+          },
+          {
+            "id": "2",
+            "name": "2居"
+          },
+          {
+            "id": "30",
+            "name": "3居+"
+          }
+        ],
+        "listLodgeType": [
+          {
+            "id": "3",
+            "name": "独栋别墅"
+          },
+          {
+            "id": "11",
+            "name": "豪宅"
+          }
+        ]
+      },
+      {
+        "cityId": 14,
+        "cityName": "天津",
+        "cityPinyin": "tianjin",
+        "listBedRoomType": [
+          {
+            "id": "0",
+            "name": "不限"
+          },
+          {
+            "id": "1",
+            "name": "1居"
+          },
+          {
+            "id": "2",
+            "name": "2居"
+          },
+          {
+            "id": "30",
+            "name": "3居+"
+          }
+        ],
+        "listLodgeType": [
+          {
+            "id": "3",
+            "name": "独栋别墅"
+          }
+        ]
+      },
+      {
+        "cityId": 55,
+        "cityName": "沈阳",
+        "cityPinyin": "shenyang",
+        "listBedRoomType": [
+          {
+            "id": "0",
+            "name": "不限"
+          },
+          {
+            "id": "1",
+            "name": "1居"
+          },
+          {
+            "id": "2",
+            "name": "2居"
+          }
+        ],
+        "listLodgeType": [
+          {
+            "id": "3",
+            "name": "独栋别墅"
+          },
+          {
+            "id": "5",
+            "name": "客栈"
+          }
+        ]
+      },
+      {
+        "cityId": 204,
+        "cityName": "长沙",
+        "cityPinyin": "changsha",
+        "listBedRoomType": [
+          {
+            "id": "0",
+            "name": "不限"
+          },
+          {
+            "id": "1",
+            "name": "1居"
+          },
+          {
+            "id": "2",
+            "name": "2居"
+          },
+          {
+            "id": "30",
+            "name": "3居+"
+          }
+        ],
+        "listLodgeType": [
+          {
+            "id": "3",
+            "name": "独栋别墅"
+          },
+          {
+            "id": "5",
+            "name": "客栈"
+          },
+          {
+            "id": "11",
+            "name": "豪宅"
+          }
+        ]
+      },
+      {
+        "cityId": 123,
+        "cityName": "合肥",
+        "cityPinyin": "hefei",
+        "listBedRoomType": [
+          {
+            "id": "0",
+            "name": "不限"
+          },
+          {
+            "id": "1",
+            "name": "1居"
+          },
+          {
+            "id": "2",
+            "name": "2居"
+          },
+          {
+            "id": "30",
+            "name": "3居+"
+          }
+        ],
+        "listLodgeType": [
+          {
+            "id": "3",
+            "name": "独栋别墅"
+          },
+          {
+            "id": "5",
+            "name": "客栈"
+          }
+        ]
+      },
+      {
+        "cityId": 76,
+        "cityName": "厦门",
+        "cityPinyin": "xiamen",
+        "listBedRoomType": [
+          {
+            "id": "0",
+            "name": "不限"
+          },
+          {
+            "id": "1",
+            "name": "1居"
+          },
+          {
+            "id": "2",
+            "name": "2居"
+          },
+          {
+            "id": "30",
+            "name": "3居+"
+          }
+        ],
+        "listLodgeType": [
+          {
+            "id": "3",
+            "name": "独栋别墅"
+          },
+          {
+            "id": "5",
+            "name": "客栈"
+          },
+          {
+            "id": "8",
+            "name": "海边小屋"
+          },
+          {
+            "id": "11",
+            "name": "豪宅"
+          }
+        ]
+      },
+      {
+        "cityId": 103,
+        "cityName": "郑州",
+        "cityPinyin": "zhengzhou",
+        "listBedRoomType": [
+          {
+            "id": "0",
+            "name": "不限"
+          },
+          {
+            "id": "1",
+            "name": "1居"
+          },
+          {
+            "id": "2",
+            "name": "2居"
+          },
+          {
+            "id": "30",
+            "name": "3居+"
+          }
+        ],
+        "listLodgeType": []
+      },
+      {
+        "cityId": 1,
+        "cityName": "石家庄",
+        "cityPinyin": "shijiazhuang",
+        "listBedRoomType": [
+          {
+            "id": "0",
+            "name": "不限"
+          },
+          {
+            "id": "1",
+            "name": "1居"
+          },
+          {
+            "id": "2",
+            "name": "2居"
+          },
+          {
+            "id": "30",
+            "name": "3居+"
+          }
+        ],
+        "listLodgeType": [
+          {
+            "id": "3",
+            "name": "独栋别墅"
+          },
+          {
+            "id": "5",
+            "name": "客栈"
+          },
+          {
+            "id": "11",
+            "name": "豪宅"
+          }
+        ]
+      },
+      {
+        "cityId": 75,
+        "cityName": "福州",
+        "cityPinyin": "fuzhou",
+        "listBedRoomType": [
+          {
+            "id": "0",
+            "name": "不限"
+          },
+          {
+            "id": "1",
+            "name": "1居"
+          },
+          {
+            "id": "2",
+            "name": "2居"
+          },
+          {
+            "id": "30",
+            "name": "3居+"
+          }
+        ],
+        "listLodgeType": []
+      },
+      {
+        "cityId": 66,
+        "cityName": "无锡",
+        "cityPinyin": "wuxi",
+        "listBedRoomType": [
+          {
+            "id": "0",
+            "name": "不限"
+          },
+          {
+            "id": "1",
+            "name": "1居"
+          },
+          {
+            "id": "2",
+            "name": "2居"
+          },
+          {
+            "id": "30",
+            "name": "3居+"
+          }
+        ],
+        "listLodgeType": [
+          {
+            "id": "3",
+            "name": "独栋别墅"
+          },
+          {
+            "id": "5",
+            "name": "客栈"
+          }
+        ]
+      },
+      {
+        "cityId": 134,
+        "cityName": "桂林",
+        "cityPinyin": "guilin",
+        "listBedRoomType": [
+          {
+            "id": "0",
+            "name": "不限"
+          },
+          {
+            "id": "1",
+            "name": "1居"
+          },
+          {
+            "id": "2",
+            "name": "2居"
+          },
+          {
+            "id": "30",
+            "name": "3居+"
+          }
+        ],
+        "listLodgeType": [
+          {
+            "id": "3",
+            "name": "独栋别墅"
+          },
+          {
+            "id": "5",
+            "name": "客栈"
+          },
+          {
+            "id": "11",
+            "name": "豪宅"
+          }
+        ]
+      },
+      {
+        "cityId": 306,
+        "cityName": "日照",
+        "cityPinyin": "rizhao",
+        "listBedRoomType": [
+          {
+            "id": "0",
+            "name": "不限"
+          },
+          {
+            "id": "1",
+            "name": "1居"
+          },
+          {
+            "id": "2",
+            "name": "2居"
+          },
+          {
+            "id": "30",
+            "name": "3居+"
+          }
+        ],
+        "listLodgeType": [
+          {
+            "id": "3",
+            "name": "独栋别墅"
+          },
+          {
+            "id": "8",
+            "name": "海边小屋"
+          },
+          {
+            "id": "11",
+            "name": "豪宅"
+          }
+        ]
+      },
+      {
+        "cityId": 237,
+        "cityName": "大理",
+        "cityPinyin": "dali",
+        "listBedRoomType": [
+          {
+            "id": "0",
+            "name": "不限"
+          },
+          {
+            "id": "1",
+            "name": "1居"
+          },
+          {
+            "id": "2",
+            "name": "2居"
+          },
+          {
+            "id": "30",
+            "name": "3居+"
+          }
+        ],
+        "listLodgeType": [
+          {
+            "id": "3",
+            "name": "独栋别墅"
+          },
+          {
+            "id": "5",
+            "name": "客栈"
+          },
+          {
+            "id": "7",
+            "name": "四合院"
+          },
+          {
+            "id": "10",
+            "name": "林间小屋"
+          },
+          {
+            "id": "11",
+            "name": "豪宅"
+          }
+        ]
+      },
+      {
+        "cityId": 143,
+        "cityName": "海口",
+        "cityPinyin": "haikou",
+        "listBedRoomType": [
+          {
+            "id": "0",
+            "name": "不限"
+          },
+          {
+            "id": "1",
+            "name": "1居"
+          },
+          {
+            "id": "2",
+            "name": "2居"
+          },
+          {
+            "id": "30",
+            "name": "3居+"
+          }
+        ],
+        "listLodgeType": [
+          {
+            "id": "3",
+            "name": "独栋别墅"
+          },
+          {
+            "id": "5",
+            "name": "客栈"
+          },
+          {
+            "id": "6",
+            "name": "阁楼"
+          },
+          {
+            "id": "7",
+            "name": "四合院"
+          },
+          {
+            "id": "10",
+            "name": "林间小屋"
+          },
+          {
+            "id": "11",
+            "name": "豪宅"
+          }
+        ]
+      },
+      {
+        "cityId": 317,
+        "cityName": "北海",
+        "cityPinyin": "beihai",
+        "listBedRoomType": [
+          {
+            "id": "0",
+            "name": "不限"
+          },
+          {
+            "id": "1",
+            "name": "1居"
+          },
+          {
+            "id": "2",
+            "name": "2居"
+          },
+          {
+            "id": "30",
+            "name": "3居+"
+          }
+        ],
+        "listLodgeType": [
+          {
+            "id": "3",
+            "name": "独栋别墅"
+          },
+          {
+            "id": "8",
+            "name": "海边小屋"
+          }
+        ]
+      },
+      {
+        "cityId": 230,
+        "cityName": "丽江",
+        "cityPinyin": "lijiang",
+        "listBedRoomType": [
+          {
+            "id": "0",
+            "name": "不限"
+          },
+          {
+            "id": "1",
+            "name": "1居"
+          },
+          {
+            "id": "2",
+            "name": "2居"
+          },
+          {
+            "id": "30",
+            "name": "3居+"
+          }
+        ],
+        "listLodgeType": [
+          {
+            "id": "3",
+            "name": "独栋别墅"
+          },
+          {
+            "id": "5",
+            "name": "客栈"
+          }
+        ]
+      },
+      {
+        "cityId": 18,
+        "cityName": "珠海",
+        "cityPinyin": "zhuhai",
+        "listBedRoomType": [
+          {
+            "id": "0",
+            "name": "不限"
+          },
+          {
+            "id": "1",
+            "name": "1居"
+          },
+          {
+            "id": "2",
+            "name": "2居"
+          },
+          {
+            "id": "30",
+            "name": "3居+"
+          }
+        ],
+        "listLodgeType": [
+          {
+            "id": "3",
+            "name": "独栋别墅"
+          },
+          {
+            "id": "11",
+            "name": "豪宅"
+          }
+        ]
+      },
+      {
+        "cityId": 27,
+        "cityName": "宁波",
+        "cityPinyin": "ningbo",
+        "listBedRoomType": [
+          {
+            "id": "0",
+            "name": "不限"
+          },
+          {
+            "id": "1",
+            "name": "1居"
+          },
+          {
+            "id": "30",
+            "name": "3居+"
+          }
+        ],
+        "listLodgeType": [
+          {
+            "id": "11",
+            "name": "豪宅"
+          }
+        ]
+      },
+      {
+        "cityId": 155,
+        "cityName": "太原",
+        "cityPinyin": "taiyuan",
+        "listBedRoomType": [
+          {
+            "id": "0",
+            "name": "不限"
+          },
+          {
+            "id": "1",
+            "name": "1居"
+          },
+          {
+            "id": "2",
+            "name": "2居"
+          },
+          {
+            "id": "30",
+            "name": "3居+"
+          }
+        ],
+        "listLodgeType": [
+          {
+            "id": "5",
+            "name": "客栈"
+          },
+          {
+            "id": "7",
+            "name": "四合院"
+          }
+        ]
+      },
+      {
+        "cityId": 84,
+        "cityName": "长春",
+        "cityPinyin": "changchun",
+        "listBedRoomType": [
+          {
+            "id": "0",
+            "name": "不限"
+          },
+          {
+            "id": "1",
+            "name": "1居"
+          },
+          {
+            "id": "2",
+            "name": "2居"
+          },
+          {
+            "id": "30",
+            "name": "3居+"
+          }
+        ],
+        "listLodgeType": [
+          {
+            "id": "11",
+            "name": "豪宅"
+          }
+        ]
+      },
+      {
+        "cityId": 118,
+        "cityName": "烟台",
+        "cityPinyin": "yantai",
+        "listBedRoomType": [
+          {
+            "id": "0",
+            "name": "不限"
+          },
+          {
+            "id": "1",
+            "name": "1居"
+          },
+          {
+            "id": "2",
+            "name": "2居"
+          },
+          {
+            "id": "30",
+            "name": "3居+"
+          }
+        ],
+        "listLodgeType": [
+          {
+            "id": "3",
+            "name": "独栋别墅"
+          },
+          {
+            "id": "5",
+            "name": "客栈"
+          },
+          {
+            "id": "6",
+            "name": "阁楼"
+          },
+          {
+            "id": "8",
+            "name": "海边小屋"
+          },
+          {
+            "id": "11",
+            "name": "豪宅"
+          }
+        ]
+      },
+      {
+        "cityId": 118,
+        "cityName": "蓬莱",
+        "cityPinyin": "penglai",
+        "listBedRoomType": [
+          {
+            "id": "0",
+            "name": "不限"
+          },
+          {
+            "id": "1",
+            "name": "1居"
+          },
+          {
+            "id": "2",
+            "name": "2居"
+          },
+          {
+            "id": "30",
+            "name": "3居+"
+          }
+        ],
+        "listLodgeType": [
+          {
+            "id": "3",
+            "name": "独栋别墅"
+          },
+          {
+            "id": "5",
+            "name": "客栈"
+          },
+          {
+            "id": "6",
+            "name": "阁楼"
+          },
+          {
+            "id": "8",
+            "name": "海边小屋"
+          },
+          {
+            "id": "11",
+            "name": "豪宅"
+          }
+        ]
+      },
+      {
+        "cityId": 156,
+        "cityName": "大同",
+        "cityPinyin": "datong",
+        "listBedRoomType": [
+          {
+            "id": "0",
+            "name": "不限"
+          },
+          {
+            "id": "1",
+            "name": "1居"
+          },
+          {
+            "id": "2",
+            "name": "2居"
+          },
+          {
+            "id": "30",
+            "name": "3居+"
+          }
+        ],
+        "listLodgeType": [
+          {
+            "id": "5",
+            "name": "客栈"
+          }
+        ]
+      },
+      {
+        "cityId": 313,
+        "cityName": "黄山",
+        "cityPinyin": "huangshan",
+        "listBedRoomType": [
+          {
+            "id": "0",
+            "name": "不限"
+          },
+          {
+            "id": "1",
+            "name": "1居"
+          },
+          {
+            "id": "2",
+            "name": "2居"
+          },
+          {
+            "id": "30",
+            "name": "3居+"
+          }
+        ],
+        "listLodgeType": [
+          {
+            "id": "5",
+            "name": "客栈"
+          }
+        ]
+      },
+      {
+        "cityId": 293,
+        "cityName": "开封",
+        "cityPinyin": "kaifeng",
+        "listBedRoomType": [
+          {
+            "id": "0",
+            "name": "不限"
+          },
+          {
+            "id": "1",
+            "name": "1居"
+          },
+          {
+            "id": "2",
+            "name": "2居"
+          }
+        ],
+        "listLodgeType": []
+      },
+      {
+        "cityId": 166,
+        "cityName": "兰州",
+        "cityPinyin": "lanzhou",
+        "listBedRoomType": [
+          {
+            "id": "0",
+            "name": "不限"
+          },
+          {
+            "id": "1",
+            "name": "1居"
+          },
+          {
+            "id": "2",
+            "name": "2居"
+          }
+        ],
+        "listLodgeType": []
+      },
+      {
+        "cityId": 104,
+        "cityName": "洛阳",
+        "cityPinyin": "luoyang",
+        "listBedRoomType": [
+          {
+            "id": "0",
+            "name": "不限"
+          },
+          {
+            "id": "1",
+            "name": "1居"
+          },
+          {
+            "id": "2",
+            "name": "2居"
+          },
+          {
+            "id": "30",
+            "name": "3居+"
+          }
+        ],
+        "listLodgeType": []
+      },
+      {
+        "cityId": 142,
+        "cityName": "南宁",
+        "cityPinyin": "nanning",
+        "listBedRoomType": [
+          {
+            "id": "0",
+            "name": "不限"
+          },
+          {
+            "id": "1",
+            "name": "1居"
+          },
+          {
+            "id": "2",
+            "name": "2居"
+          },
+          {
+            "id": "30",
+            "name": "3居+"
+          }
+        ],
+        "listLodgeType": [
+          {
+            "id": "3",
+            "name": "独栋别墅"
+          },
+          {
+            "id": "11",
+            "name": "豪宅"
+          }
+        ]
+      },
+      {
+        "cityId": 334,
+        "cityName": "张家界",
+        "cityPinyin": "zhangjiajie",
+        "listBedRoomType": [
+          {
+            "id": "0",
+            "name": "不限"
+          },
+          {
+            "id": "1",
+            "name": "1居"
+          },
+          {
+            "id": "2",
+            "name": "2居"
+          },
+          {
+            "id": "30",
+            "name": "3居+"
+          }
+        ],
+        "listLodgeType": [
+          {
+            "id": "5",
+            "name": "客栈"
+          },
+          {
+            "id": "11",
+            "name": "豪宅"
+          }
+        ]
+      },
+      {
+        "cityId": 34,
+        "cityName": "舟山",
+        "cityPinyin": "zhoushan",
+        "listBedRoomType": [
+          {
+            "id": "0",
+            "name": "不限"
+          },
+          {
+            "id": "1",
+            "name": "1居"
+          },
+          {
+            "id": "2",
+            "name": "2居"
+          },
+          {
+            "id": "30",
+            "name": "3居+"
+          }
+        ],
+        "listLodgeType": [
+          {
+            "id": "5",
+            "name": "客栈"
+          }
+        ]
+      },
+      {
+        "cityId": 305,
+        "cityName": "泰山/泰安",
+        "cityPinyin": "taian",
+        "listBedRoomType": [
+          {
+            "id": "0",
+            "name": "不限"
+          },
+          {
+            "id": "1",
+            "name": "1居"
+          },
+          {
+            "id": "2",
+            "name": "2居"
+          },
+          {
+            "id": "30",
+            "name": "3居+"
+          }
+        ],
+        "listLodgeType": [
+          {
+            "id": "11",
+            "name": "豪宅"
+          }
+        ]
+      },
+      {
+        "cityId": 50,
+        "cityName": "乐山",
+        "cityPinyin": "leshan",
+        "listBedRoomType": [
+          {
+            "id": "0",
+            "name": "不限"
+          },
+          {
+            "id": "1",
+            "name": "1居"
+          },
+          {
+            "id": "2",
+            "name": "2居"
+          },
+          {
+            "id": "30",
+            "name": "3居+"
+          }
+        ],
+        "listLodgeType": []
+      },
+      {
+        "cityId": 2,
+        "cityName": "唐山",
+        "cityPinyin": "tangshan",
+        "listBedRoomType": [
+          {
+            "id": "0",
+            "name": "不限"
+          },
+          {
+            "id": "1",
+            "name": "1居"
+          },
+          {
+            "id": "2",
+            "name": "2居"
+          },
+          {
+            "id": "30",
+            "name": "3居+"
+          }
+        ],
+        "listLodgeType": [
+          {
+            "id": "3",
+            "name": "独栋别墅"
+          }
+        ]
+      },
+      {
+        "cityId": 119,
+        "cityName": "潍坊",
+        "cityPinyin": "weifang",
+        "listBedRoomType": [
+          {
+            "id": "0",
+            "name": "不限"
+          },
+          {
+            "id": "1",
+            "name": "1居"
+          },
+          {
+            "id": "2",
+            "name": "2居"
+          },
+          {
+            "id": "30",
+            "name": "3居+"
+          }
+        ],
+        "listLodgeType": [
+          {
+            "id": "3",
+            "name": "独栋别墅"
+          }
+        ]
+      },
+      {
+        "cityId": 235,
+        "cityName": "西双版纳",
+        "cityPinyin": "xishuangbanna",
+        "listBedRoomType": [
+          {
+            "id": "0",
+            "name": "不限"
+          },
+          {
+            "id": "1",
+            "name": "1居"
+          },
+          {
+            "id": "2",
+            "name": "2居"
+          },
+          {
+            "id": "30",
+            "name": "3居+"
+          }
+        ],
+        "listLodgeType": []
+      },
+      {
+        "cityId": 92,
+        "cityName": "延边",
+        "cityPinyin": "yanbian",
+        "listBedRoomType": [
+          {
+            "id": "0",
+            "name": "不限"
+          },
+          {
+            "id": "1",
+            "name": "1居"
+          },
+          {
+            "id": "2",
+            "name": "2居"
+          },
+          {
+            "id": "30",
+            "name": "3居+"
+          }
+        ],
+        "listLodgeType": []
+      },
+      {
+        "cityId": 74,
+        "cityName": "扬州",
+        "cityPinyin": "yangzhou",
+        "listBedRoomType": [
+          {
+            "id": "0",
+            "name": "不限"
+          },
+          {
+            "id": "1",
+            "name": "1居"
+          },
+          {
+            "id": "2",
+            "name": "2居"
+          },
+          {
+            "id": "30",
+            "name": "3居+"
+          }
+        ],
+        "listLodgeType": [
+          {
+            "id": "3",
+            "name": "独栋别墅"
+          },
+          {
+            "id": "11",
+            "name": "豪宅"
+          }
+        ]
+      },
+      {
+        "cityId": 28,
+        "cityName": "温州",
+        "cityPinyin": "wenzhou",
+        "listBedRoomType": [
+          {
+            "id": "0",
+            "name": "不限"
+          },
+          {
+            "id": "1",
+            "name": "1居"
+          },
+          {
+            "id": "2",
+            "name": "2居"
+          }
+        ],
+        "listLodgeType": [
+          {
+            "id": "3",
+            "name": "独栋别墅"
+          },
+          {
+            "id": "8",
+            "name": "海边小屋"
+          }
+        ]
+      },
+      {
+        "cityId": 6,
+        "cityName": "保定",
+        "cityPinyin": "baoding",
+        "listBedRoomType": [
+          {
+            "id": "0",
+            "name": "不限"
+          },
+          {
+            "id": "1",
+            "name": "1居"
+          },
+          {
+            "id": "2",
+            "name": "2居"
+          },
+          {
+            "id": "30",
+            "name": "3居+"
+          }
+        ],
+        "listLodgeType": [
+          {
+            "id": "3",
+            "name": "独栋别墅"
+          }
+        ]
+      },
+      {
+        "cityId": 69,
+        "cityName": "常州",
+        "cityPinyin": "changzhou",
+        "listBedRoomType": [
+          {
+            "id": "0",
+            "name": "不限"
+          },
+          {
+            "id": "1",
+            "name": "1居"
+          },
+          {
+            "id": "2",
+            "name": "2居"
+          },
+          {
+            "id": "30",
+            "name": "3居+"
+          }
+        ],
+        "listLodgeType": [
+          {
+            "id": "3",
+            "name": "独栋别墅"
+          }
+        ]
+      },
+      {
+        "cityId": 8,
+        "cityName": "承德",
+        "cityPinyin": "chengde",
+        "listBedRoomType": [
+          {
+            "id": "0",
+            "name": "不限"
+          },
+          {
+            "id": "1",
+            "name": "1居"
+          },
+          {
+            "id": "2",
+            "name": "2居"
+          },
+          {
+            "id": "30",
+            "name": "3居+"
+          }
+        ],
+        "listLodgeType": []
+      },
+      {
+        "cityId": 59,
+        "cityName": "丹东",
+        "cityPinyin": "dandong",
+        "listBedRoomType": [
+          {
+            "id": "0",
+            "name": "不限"
+          },
+          {
+            "id": "1",
+            "name": "1居"
+          },
+          {
+            "id": "2",
+            "name": "2居"
+          },
+          {
+            "id": "30",
+            "name": "3居+"
+          }
+        ],
+        "listLodgeType": [
+          {
+            "id": "3",
+            "name": "独栋别墅"
+          },
+          {
+            "id": "5",
+            "name": "客栈"
+          },
+          {
+            "id": "7",
+            "name": "四合院"
+          },
+          {
+            "id": "10",
+            "name": "林间小屋"
+          },
+          {
+            "id": "11",
+            "name": "豪宅"
+          }
+        ]
+      },
+      {
+        "cityId": 20,
+        "cityName": "佛山",
+        "cityPinyin": "foshan",
+        "listBedRoomType": [
+          {
+            "id": "0",
+            "name": "不限"
+          },
+          {
+            "id": "1",
+            "name": "1居"
+          },
+          {
+            "id": "2",
+            "name": "2居"
+          },
+          {
+            "id": "30",
+            "name": "3居+"
+          }
+        ],
+        "listLodgeType": [
+          {
+            "id": "5",
+            "name": "客栈"
+          },
+          {
+            "id": "11",
+            "name": "豪宅"
+          }
+        ]
+      },
+      {
+        "cityId": 36,
+        "cityName": "贵阳",
+        "cityPinyin": "guiyang",
+        "listBedRoomType": [
+          {
+            "id": "0",
+            "name": "不限"
+          },
+          {
+            "id": "1",
+            "name": "1居"
+          },
+          {
+            "id": "2",
+            "name": "2居"
+          },
+          {
+            "id": "30",
+            "name": "3居+"
+          }
+        ],
+        "listLodgeType": []
+      },
+      {
+        "cityId": 145,
+        "cityName": "呼和浩特",
+        "cityPinyin": "huhehaote",
+        "listBedRoomType": [
+          {
+            "id": "0",
+            "name": "不限"
+          },
+          {
+            "id": "1",
+            "name": "1居"
+          },
+          {
+            "id": "2",
+            "name": "2居"
+          },
+          {
+            "id": "30",
+            "name": "3居+"
+          }
+        ],
+        "listLodgeType": [
+          {
+            "id": "3",
+            "name": "独栋别墅"
+          }
+        ]
+      },
+      {
+        "cityId": 165,
+        "cityName": "银川",
+        "cityPinyin": "yinchuan",
+        "listBedRoomType": [
+          {
+            "id": "0",
+            "name": "不限"
+          },
+          {
+            "id": "1",
+            "name": "1居"
+          },
+          {
+            "id": "2",
+            "name": "2居"
+          }
+        ],
+        "listLodgeType": []
+      },
+      {
+        "cityId": 80,
+        "cityName": "漳州",
+        "cityPinyin": "zhangzhou",
+        "listBedRoomType": [
+          {
+            "id": "0",
+            "name": "不限"
+          },
+          {
+            "id": "1",
+            "name": "1居"
+          },
+          {
+            "id": "2",
+            "name": "2居"
+          }
+        ],
+        "listLodgeType": [
+          {
+            "id": "3",
+            "name": "独栋别墅"
+          }
+        ]
+      },
+      {
+        "cityId": 25,
+        "cityName": "中山",
+        "cityPinyin": "zhongshan",
+        "listBedRoomType": [
+          {
+            "id": "0",
+            "name": "不限"
+          },
+          {
+            "id": "1",
+            "name": "1居"
+          },
+          {
+            "id": "2",
+            "name": "2居"
+          },
+          {
+            "id": "30",
+            "name": "3居+"
+          }
+        ],
+        "listLodgeType": []
+      },
+      {
+        "cityId": 85,
+        "cityName": "吉林",
+        "cityPinyin": "jilinshi",
+        "listBedRoomType": [
+          {
+            "id": "0",
+            "name": "不限"
+          },
+          {
+            "id": "1",
+            "name": "1居"
+          },
+          {
+            "id": "2",
+            "name": "2居"
+          }
+        ],
+        "listLodgeType": []
+      },
+      {
+        "cityId": 186,
+        "cityName": "西宁",
+        "cityPinyin": "xining",
+        "listBedRoomType": [
+          {
+            "id": "0",
+            "name": "不限"
+          },
+          {
+            "id": "1",
+            "name": "1居"
+          },
+          {
+            "id": "2",
+            "name": "2居"
+          },
+          {
+            "id": "30",
+            "name": "3居+"
+          }
+        ],
+        "listLodgeType": [
+          {
+            "id": "5",
+            "name": "客栈"
+          },
+          {
+            "id": "11",
+            "name": "豪宅"
+          }
+        ]
+      },
+      {
+        "cityId": 61,
+        "cityName": "营口",
+        "cityPinyin": "yingkou",
+        "listBedRoomType": [
+          {
+            "id": "0",
+            "name": "不限"
+          },
+          {
+            "id": "1",
+            "name": "1居"
+          },
+          {
+            "id": "2",
+            "name": "2居"
+          },
+          {
+            "id": "30",
+            "name": "3居+"
+          }
+        ],
+        "listLodgeType": [
+          {
+            "id": "3",
+            "name": "独栋别墅"
+          },
+          {
+            "id": "8",
+            "name": "海边小屋"
+          },
+          {
+            "id": "11",
+            "name": "豪宅"
+          }
+        ]
+      },
+      {
+        "cityId": 379,
+        "cityName": "都江堰",
+        "cityPinyin": "dujiangyan",
+        "listLodgeType": [
+          {
+            "id": "3",
+            "name": "独栋别墅"
+          }
+        ]
+      },
+      {
+        "cityId": 381,
+        "cityName": "鼓浪屿",
+        "cityPinyin": "gulangyu"
+      },
+      {
+        "cityId": 241,
+        "cityName": "乌鲁木齐",
+        "cityPinyin": "wulumuqi",
+        "listBedRoomType": [
+          {
+            "id": "0",
+            "name": "不限"
+          },
+          {
+            "id": "1",
+            "name": "1居"
+          },
+          {
+            "id": "2",
+            "name": "2居"
+          },
+          {
+            "id": "30",
+            "name": "3居+"
+          }
+        ],
+        "listLodgeType": []
+      },
+      {
+        "cityId": 214,
+        "cityName": "南昌",
+        "cityPinyin": "nanchang",
+        "listBedRoomType": [
+          {
+            "id": "0",
+            "name": "不限"
+          },
+          {
+            "id": "1",
+            "name": "1居"
+          },
+          {
+            "id": "2",
+            "name": "2居"
+          },
+          {
+            "id": "30",
+            "name": "3居+"
+          }
+        ],
+        "listLodgeType": [
+          {
+            "id": "3",
+            "name": "独栋别墅"
+          },
+          {
+            "id": "5",
+            "name": "客栈"
+          }
+        ]
+      },
+      {
+        "cityId": 151,
+        "cityName": "呼伦贝尔",
+        "cityPinyin": "hulunbeier",
+        "listBedRoomType": [
+          {
+            "id": "0",
+            "name": "不限"
+          },
+          {
+            "id": "1",
+            "name": "1居"
+          },
+          {
+            "id": "2",
+            "name": "2居"
+          },
+          {
+            "id": "30",
+            "name": "3居+"
+          }
+        ],
+        "listLodgeType": [
+          {
+            "id": "3",
+            "name": "独栋别墅"
+          },
+          {
+            "id": "5",
+            "name": "客栈"
+          }
+        ]
+      },
+      {
+        "cityId": 68,
+        "cityName": "徐州",
+        "cityPinyin": "xuzhou",
+        "listBedRoomType": [
+          {
+            "id": "0",
+            "name": "不限"
+          },
+          {
+            "id": "1",
+            "name": "1居"
+          }
+        ],
+        "listLodgeType": []
+      },
+      {
+        "cityId": 108,
+        "cityName": "新乡",
+        "cityPinyin": "xinxiang",
+        "listBedRoomType": [
+          {
+            "id": "0",
+            "name": "不限"
+          },
+          {
+            "id": "1",
+            "name": "1居"
+          }
+        ],
+        "listLodgeType": []
+      },
+      {
+        "cityId": 57,
+        "cityName": "鞍山",
+        "cityPinyin": "anshan",
+        "listBedRoomType": [
+          {
+            "id": "0",
+            "name": "不限"
+          },
+          {
+            "id": "1",
+            "name": "1居"
+          },
+          {
+            "id": "2",
+            "name": "2居"
+          }
+        ],
+        "listLodgeType": []
+      },
+      {
+        "cityId": 390,
+        "cityName": "台湾·花莲",
+        "cityPinyin": "taiwanhualian",
+        "listBedRoomType": [
+          {
+            "id": "0",
+            "name": "不限"
+          },
+          {
+            "id": "1",
+            "name": "1居"
+          }
+        ],
+        "listLodgeType": [
+          {
+            "id": "3",
+            "name": "独栋别墅"
+          }
+        ]
+      },
+      {
+        "cityId": 307,
+        "cityName": "临沂",
+        "cityPinyin": "linyi",
+        "listBedRoomType": [
+          {
+            "id": "0",
+            "name": "不限"
+          },
+          {
+            "id": "1",
+            "name": "1居"
+          },
+          {
+            "id": "2",
+            "name": "2居"
+          }
+        ],
+        "listLodgeType": []
+      },
+      {
+        "cityId": 60,
+        "cityName": "锦州",
+        "cityPinyin": "jinzhou",
+        "listBedRoomType": [
+          {
+            "id": "0",
+            "name": "不限"
+          },
+          {
+            "id": "1",
+            "name": "1居"
+          },
+          {
+            "id": "2",
+            "name": "2居"
+          },
+          {
+            "id": "30",
+            "name": "3居+"
+          }
+        ],
+        "listLodgeType": [
+          {
+            "id": "6",
+            "name": "阁楼"
+          },
+          {
+            "id": "11",
+            "name": "豪宅"
+          }
+        ]
+      },
+      {
+        "cityId": 64,
+        "cityName": "葫芦岛",
+        "cityPinyin": "huludao",
+        "listBedRoomType": [
+          {
+            "id": "0",
+            "name": "不限"
+          },
+          {
+            "id": "1",
+            "name": "1居"
+          },
+          {
+            "id": "2",
+            "name": "2居"
+          },
+          {
+            "id": "30",
+            "name": "3居+"
+          }
+        ],
+        "listLodgeType": [
+          {
+            "id": "3",
+            "name": "独栋别墅"
+          },
+          {
+            "id": "8",
+            "name": "海边小屋"
+          },
+          {
+            "id": "11",
+            "name": "豪宅"
+          }
+        ]
+      },
+      {
+        "cityId": 64,
+        "cityName": "东戴河",
+        "cityPinyin": "dongdaihe",
+        "listBedRoomType": [
+          {
+            "id": "0",
+            "name": "不限"
+          },
+          {
+            "id": "1",
+            "name": "1居"
+          },
+          {
+            "id": "2",
+            "name": "2居"
+          },
+          {
+            "id": "30",
+            "name": "3居+"
+          }
+        ],
+        "listLodgeType": [
+          {
+            "id": "3",
+            "name": "独栋别墅"
+          },
+          {
+            "id": "8",
+            "name": "海边小屋"
+          },
+          {
+            "id": "11",
+            "name": "豪宅"
+          }
+        ]
+      },
+      {
+        "cityId": 24,
+        "cityName": "东莞",
+        "cityPinyin": "dongguan",
+        "listBedRoomType": [
+          {
+            "id": "0",
+            "name": "不限"
+          },
+          {
+            "id": "1",
+            "name": "1居"
+          },
+          {
+            "id": "2",
+            "name": "2居"
+          },
+          {
+            "id": "30",
+            "name": "3居+"
+          }
+        ],
+        "listLodgeType": []
+      },
+      {
+        "cityId": 378,
+        "cityName": "琼海",
+        "cityPinyin": "qionghai",
+        "listBedRoomType": [
+          {
+            "id": "0",
+            "name": "不限"
+          },
+          {
+            "id": "1",
+            "name": "1居"
+          },
+          {
+            "id": "2",
+            "name": "2居"
+          },
+          {
+            "id": "30",
+            "name": "3居+"
+          }
+        ],
+        "listLodgeType": []
+      },
+      {
+        "cityId": 378,
+        "cityName": "博鳌",
+        "cityPinyin": "boao",
+        "listBedRoomType": [
+          {
+            "id": "0",
+            "name": "不限"
+          },
+          {
+            "id": "1",
+            "name": "1居"
+          },
+          {
+            "id": "2",
+            "name": "2居"
+          },
+          {
+            "id": "30",
+            "name": "3居+"
+          }
+        ],
+        "listLodgeType": []
+      },
+      {
+        "cityId": 150,
+        "cityName": "鄂尔多斯",
+        "cityPinyin": "eerduosi",
+        "listBedRoomType": [
+          {
+            "id": "0",
+            "name": "不限"
+          },
+          {
+            "id": "1",
+            "name": "1居"
+          },
+          {
+            "id": "2",
+            "name": "2居"
+          },
+          {
+            "id": "30",
+            "name": "3居+"
+          }
+        ],
+        "listLodgeType": []
+      },
+      {
+        "cityId": 158,
+        "cityName": "长治",
+        "cityPinyin": "changzhi",
+        "listBedRoomType": [
+          {
+            "id": "0",
+            "name": "不限"
+          },
+          {
+            "id": "1",
+            "name": "1居"
+          },
+          {
+            "id": "2",
+            "name": "2居"
+          }
+        ],
+        "listLodgeType": []
+      },
+      {
+        "cityId": 331,
+        "cityName": "恩施",
+        "cityPinyin": "enshi",
+        "listBedRoomType": [
+          {
+            "id": "0",
+            "name": "不限"
+          },
+          {
+            "id": "1",
+            "name": "1居"
+          },
+          {
+            "id": "2",
+            "name": "2居"
+          },
+          {
+            "id": "30",
+            "name": "3居+"
+          }
+        ],
+        "listLodgeType": [
+          {
+            "id": "5",
+            "name": "客栈"
+          }
+        ]
+      },
+      {
+        "cityId": 182,
+        "cityName": "汉中",
+        "cityPinyin": "hanzhong"
+      },
+      {
+        "cityId": 23,
+        "cityName": "惠州",
+        "cityPinyin": "huizhou",
+        "listBedRoomType": [
+          {
+            "id": "0",
+            "name": "不限"
+          },
+          {
+            "id": "1",
+            "name": "1居"
+          },
+          {
+            "id": "2",
+            "name": "2居"
+          },
+          {
+            "id": "30",
+            "name": "3居+"
+          }
+        ],
+        "listLodgeType": [
+          {
+            "id": "3",
+            "name": "独栋别墅"
+          }
+        ]
+      },
+      {
+        "cityId": 217,
+        "cityName": "九江",
+        "cityPinyin": "jiujiang",
+        "listBedRoomType": [
+          {
+            "id": "0",
+            "name": "不限"
+          },
+          {
+            "id": "1",
+            "name": "1居"
+          },
+          {
+            "id": "2",
+            "name": "2居"
+          }
+        ],
+        "listLodgeType": []
+      },
+      {
+        "cityId": 54,
+        "cityName": "凉山",
+        "cityPinyin": "liangshan",
+        "listBedRoomType": [
+          {
+            "id": "0",
+            "name": "不限"
+          },
+          {
+            "id": "1",
+            "name": "1居"
+          },
+          {
+            "id": "2",
+            "name": "2居"
+          },
+          {
+            "id": "30",
+            "name": "3居+"
+          }
+        ],
+        "listLodgeType": []
+      },
+      {
+        "cityId": 49,
+        "cityName": "绵阳",
+        "cityPinyin": "mianyang",
+        "listBedRoomType": [
+          {
+            "id": "0",
+            "name": "不限"
+          },
+          {
+            "id": "1",
+            "name": "1居"
+          },
+          {
+            "id": "2",
+            "name": "2居"
+          }
+        ],
+        "listLodgeType": []
+      },
+      {
+        "cityId": 255,
+        "cityName": "石河子",
+        "cityPinyin": "shihezi",
+        "listBedRoomType": [
+          {
+            "id": "0",
+            "name": "不限"
+          },
+          {
+            "id": "1",
+            "name": "1居"
+          },
+          {
+            "id": "30",
+            "name": "3居+"
+          }
+        ],
+        "listLodgeType": []
+      },
+      {
+        "cityId": 7,
+        "cityName": "张家口",
+        "cityPinyin": "zhangjiakou",
+        "listBedRoomType": [
+          {
+            "id": "0",
+            "name": "不限"
+          },
+          {
+            "id": "1",
+            "name": "1居"
+          },
+          {
+            "id": "2",
+            "name": "2居"
+          },
+          {
+            "id": "30",
+            "name": "3居+"
+          }
+        ],
+        "listLodgeType": [
+          {
+            "id": "3",
+            "name": "独栋别墅"
+          },
+          {
+            "id": "5",
+            "name": "客栈"
+          }
+        ]
+      },
+      {
+        "cityId": 392,
+        "cityName": "儋州",
+        "cityPinyin": "danzhou",
+        "listBedRoomType": [
+          {
+            "id": "0",
+            "name": "不限"
+          },
+          {
+            "id": "1",
+            "name": "1居"
+          }
+        ],
+        "listLodgeType": [
+          {
+            "id": "5",
+            "name": "客栈"
+          }
+        ]
+      },
+      {
+        "cityId": 284,
+        "cityName": "甘孜",
+        "cityPinyin": "ganzi"
+      },
+      {
+        "cityId": 322,
+        "cityName": "阿拉善",
+        "cityPinyin": "alashan",
+        "listBedRoomType": [
+          {
+            "id": "0",
+            "name": "不限"
+          },
+          {
+            "id": "30",
+            "name": "3居+"
+          }
+        ],
+        "listLodgeType": []
+      },
+      {
+        "cityId": 10,
+        "cityName": "廊坊",
+        "cityPinyin": "langfang",
+        "listBedRoomType": [
+          {
+            "id": "0",
+            "name": "不限"
+          },
+          {
+            "id": "1",
+            "name": "1居"
+          },
+          {
+            "id": "30",
+            "name": "3居+"
+          }
+        ],
+        "listLodgeType": []
+      },
+      {
+        "cityId": 264,
+        "cityName": "湛江",
+        "cityPinyin": "zhanjiang",
+        "listBedRoomType": [
+          {
+            "id": "0",
+            "name": "不限"
+          },
+          {
+            "id": "1",
+            "name": "1居"
+          },
+          {
+            "id": "30",
+            "name": "3居+"
+          }
+        ],
+        "listLodgeType": []
+      },
+      {
+        "cityId": 22,
+        "cityName": "茂名",
+        "cityPinyin": "maoming"
+      },
+      {
+        "cityId": 29,
+        "cityName": "嘉兴.西塘",
+        "cityPinyin": "jiaxingxitang",
+        "listBedRoomType": [
+          {
+            "id": "0",
+            "name": "不限"
+          },
+          {
+            "id": "1",
+            "name": "1居"
+          },
+          {
+            "id": "2",
+            "name": "2居"
+          }
+        ],
+        "listLodgeType": [
+          {
+            "id": "5",
+            "name": "客栈"
+          }
+        ]
+      },
+      {
+        "cityId": 89,
+        "cityName": "白山",
+        "cityPinyin": "baishan",
+        "listBedRoomType": [
+          {
+            "id": "0",
+            "name": "不限"
+          },
+          {
+            "id": "1",
+            "name": "1居"
+          },
+          {
+            "id": "2",
+            "name": "2居"
+          },
+          {
+            "id": "30",
+            "name": "3居+"
+          }
+        ],
+        "listLodgeType": []
+      },
+      {
+        "cityId": 337,
+        "cityName": "湘西",
+        "cityPinyin": "xiangxi",
+        "listBedRoomType": [
+          {
+            "id": "0",
+            "name": "不限"
+          },
+          {
+            "id": "2",
+            "name": "2居"
+          },
+          {
+            "id": "30",
+            "name": "3居+"
+          }
+        ],
+        "listLodgeType": []
+      },
+      {
+        "cityId": 270,
+        "cityName": "清远",
+        "cityPinyin": "qingyuan",
+        "listBedRoomType": [
+          {
+            "id": "0",
+            "name": "不限"
+          },
+          {
+            "id": "1",
+            "name": "1居"
+          },
+          {
+            "id": "2",
+            "name": "2居"
+          },
+          {
+            "id": "30",
+            "name": "3居+"
+          }
+        ],
+        "listLodgeType": [
+          {
+            "id": "3",
+            "name": "独栋别墅"
+          }
+        ]
+      }
+    ],
+    "listRecommend": [
+      {
+        "name": "北京",
+        "type": 1,
+        "cityId": 12,
+        "cityPinyin": "beijing",
+        "cityName": "北京"
+      },
+      {
+        "name": "上海",
+        "type": 1,
+        "cityId": 13,
+        "cityPinyin": "shanghai",
+        "cityName": "上海"
+      },
+      {
+        "name": "广州",
+        "type": 1,
+        "cityId": 16,
+        "cityPinyin": "guangzhou",
+        "cityName": "广州"
+      },
+      {
+        "name": "深圳",
+        "type": 1,
+        "cityId": 17,
+        "cityPinyin": "shenzhen",
+        "cityName": "深圳"
+      },
+      {
+        "name": "三亚",
+        "type": 1,
+        "cityId": 144,
+        "cityPinyin": "sanya",
+        "cityName": "三亚"
+      },
+      {
+        "name": "成都",
+        "type": 1,
+        "cityId": 45,
+        "cityPinyin": "chengdu",
+        "cityName": "成都"
+      },
+      {
+        "name": "武汉",
+        "type": 1,
+        "cityId": 194,
+        "cityPinyin": "wuhan",
+        "cityName": "武汉"
+      },
+      {
+        "name": "南京",
+        "type": 1,
+        "cityId": 65,
+        "cityPinyin": "nanjing",
+        "cityName": "南京"
+      },
+      {
+        "name": "重庆",
+        "type": 1,
+        "cityId": 15,
+        "cityPinyin": "chongqing",
+        "cityName": "重庆"
+      },
+      {
+        "name": "杭州",
+        "type": 1,
+        "cityId": 26,
+        "cityPinyin": "hangzhou",
+        "cityName": "杭州"
+      },
+      {
+        "name": "香港",
+        "type": 1,
+        "cityId": 344,
+        "cityPinyin": "xianggang",
+        "cityName": "香港"
+      },
+      {
+        "name": "厦门",
+        "type": 1,
+        "cityId": 76,
+        "cityPinyin": "xiamen",
+        "cityName": "厦门"
+      },
+      {
+        "name": "西安",
+        "type": 1,
+        "cityId": 176,
+        "cityPinyin": "xian",
+        "cityName": "西安"
+      },
+      {
+        "name": "长沙",
+        "type": 1,
+        "cityId": 204,
+        "cityPinyin": "changsha",
+        "cityName": "长沙"
+      },
+      {
+        "name": "苏州",
+        "type": 1,
+        "cityId": 67,
+        "cityPinyin": "suzhou",
+        "cityName": "苏州"
+      },
+      {
+        "name": "桂林",
+        "type": 1,
+        "cityId": 134,
+        "cityPinyin": "guilin",
+        "cityName": "桂林"
+      },
+      {
+        "name": "昆明",
+        "type": 1,
+        "cityId": 225,
+        "cityPinyin": "kunming",
+        "cityName": "昆明"
+      },
+      {
+        "name": "沈阳",
+        "type": 1,
+        "cityId": 55,
+        "cityPinyin": "shenyang",
+        "cityName": "沈阳"
+      },
+      {
+        "name": "天津",
+        "type": 1,
+        "cityId": 14,
+        "cityPinyin": "tianjin",
+        "cityName": "天津"
+      },
+      {
+        "name": "哈尔滨",
+        "type": 1,
+        "cityId": 93,
+        "cityPinyin": "haerbin",
+        "cityName": "哈尔滨"
+      }
+    ]
+  }
+}
